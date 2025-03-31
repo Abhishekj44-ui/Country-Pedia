@@ -23,7 +23,7 @@ const SearchFilter = ({search,setSearch,filter,setFilter,countries,setCountries}
     
     
   return (
-    <div className='flex h-min country-container sm:gap-20 gap-10  '>
+    <div className='flex h-min country-container sm:gap-20 gap-5  '>
       <input type="text"
        placeholder='search'
        value={search}
@@ -31,7 +31,7 @@ const SearchFilter = ({search,setSearch,filter,setFilter,countries,setCountries}
        onChange={handleInputChange}
       />
       <div>
-      <select name="" id="" onChange={handleSelect} className='border text-white bg-black input-search text-4xl rounded-4xl '>
+      <select name="" id="" onChange={handleSelect} className='border text-white bg-black input-search text-2xl sm:text-4xl rounded-4xl '>
           <option value="All"  >All</option>
           <option value="Africa" className='bg-blue-500 '>Africa</option>
           <option value="Americas" className='bg-blue-500'>Americas</option>
