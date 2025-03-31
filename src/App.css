@@ -1,0 +1,163 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+html {
+  font-size: 62.5%;
+  font-family: "urbanist";
+
+}
+
+
+p,li,a,button {
+  font-size: 1.7rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.6;
+  color: #fff;
+
+}
+h1,h2,h3,h4,h5{
+  color: #fff;
+}
+
+:root {
+  --bg-color: #202020;
+}
+li {
+  list-style: none;
+
+}
+
+a {
+  color: #000;
+  
+}
+
+a:hover{
+  color: #2e86c1;
+}
+
+button {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  padding: 0.6rem 2.4rem;
+ 
+  text-align: center;
+  outline: none;
+  border: none;
+  text-transform: unset;
+  transition: all 0.3s ease-in-out;
+  background: #202020;
+  color: #fff;
+  border-radius: 1.5rem;
+}
+
+
+.hero-section{
+  margin-top: 80px;
+ 
+}
+
+.hero-content{
+  padding: 10px;
+}
+
+.about-heading {
+  margin-top:100px;
+  margin-bottom: 150px;
+  font-style: italic;
+}
+
+
+.card{
+  max-width: 280px;
+ 
+  padding: 10px;
+  padding-inline: 30px;
+  padding-top: 20px;
+  /* background-color: #202020; */
+  border: 2px solid transparent;
+  background:linear-gradient(71deg,#0c0a0e,#1f2744,#0c0a0e);
+}
+
+
+.contact-input{
+  padding: 10px;
+
+}
+
+.contact-heading{
+  margin-top: 100px;
+}
+
+
+
+.footer-data-details{
+  font-size:2.5rem;
+
+} 
+
+.contact-details{
+  color: #2b251f;
+  font-size:1.5rem;
+}
+
+.footer-details-container{
+  padding: 20px;
+  margin: auto;
+  
+}
+
+.footer-container{
+  margin-top: 50px;
+ 
+  
+}
+
+.copyright-para{
+  color: black;
+  padding: 5px;
+}
+
+.country-container{
+  margin-top: 100px;
+}
+
+.country-button{
+  background: linear-gradient(71deg,#0c0a0e,#1f2744,#020101);
+  border: 2px solid white;
+  margin-top: 10px;
+  
+}
+
+.country-details-container{
+  padding-top: 100px;
+
+ 
+  
+}
+
+.country-details-inner-container{
+  padding-inline: 30px;
+  padding-top: 20px;
+  /* background-color: #202020; */
+  border: 2px solid transparent;
+  background:linear-gradient(71deg,#0c0a0e,#1f2744,#0c0a0e);
+}
+
+.country-details-heading{
+  margin-bottom: 20px;
+}
+
+.input-search {
+  padding: 1rem;
+  background:linear-gradient(71deg,#000000,#041e2d,#0b0a0b);
+  border: 2px solid white;
+  
+}

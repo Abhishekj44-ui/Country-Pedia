@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "USA",
+      "capital": "Washington D.C.",
+      "population": 331000000,
+      "fact": "The USA has the world's largest economy."
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "fact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67000000,
+      "fact": "The Eiffel Tower in Paris receives nearly 7 million visitors per year."
+    },
+    {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126000000,
+      "fact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 5,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "fact": "India is the world's largest democracy."
+    },
+    {
+      "id": 6,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": 213000000,
+      "fact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "fact": "Australia is the only country that is also a continent."
+    },
+    {
+      "id": 8,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "fact": "Germany is known for its engineering and automotive industry."
+    },
+    {
+      "id": 9,
+      "countryName": "South Africa",
+      "capital": "Pretoria (Administrative)",
+      "population": 60000000,
+      "fact": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town."
+    },
+    {
+      "id": 10,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 59000000,
+      "fact": "Rome is home to the Colosseum, one of the New Seven Wonders of the World."
+    }
+  ]
+  

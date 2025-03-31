@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "tittle": "Find us",
+        "details": "Haldwani, Uttrakhand"
+    },
+    {
+        "icon": "IoCallSharp",
+        "tittle": "Call us",
+        "details": "6398560471"
+    },
+    {
+        "icon": "TbMailPlus",
+        "tittle": "Mail us",
+        "details": "abhishekjoshi71165@gmail.com"
+    }
+]
