@@ -27,11 +27,11 @@ const SearchFilter = ({search,setSearch,filter,setFilter,countries,setCountries}
       <input type="text"
        placeholder='search'
        value={search}
-       className='border text-white input-search w-[20vw] rounded-4xl text-4xl'
+       className='border text-white input-search sm:w-[20vw] w-min rounded-4xl sm:text-4xl text-2xl'
        onChange={handleInputChange}
       />
       <div>
-      <select name="" id="" onChange={handleSelect} className='border text-white bg-black input-search text-2xl sm:text-4xl rounded-4xl '>
+      <select name="" id="" onChange={handleSelect} className='border text-white bg-black input-search text-2xl min-w  sm:text-4xl rounded-4xl '>
           <option value="All"  >All</option>
           <option value="Africa" className='bg-blue-500 '>Africa</option>
           <option value="Americas" className='bg-blue-500'>Americas</option>
