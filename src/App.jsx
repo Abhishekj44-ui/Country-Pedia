@@ -23,9 +23,9 @@ function App() {
         <Route path='country' element = {<Country />} />
         <Route path='about' element = {<About />} />
         <Route path='country/:id' element = {<CountryDetails />}  />
-        <Route path="*" element={<ErrorPage />} />
+        
       </Route>
-    
+       <Route path="*" element={<ErrorPage />} />
     </Routes>
  
    </div>
